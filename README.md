@@ -64,5 +64,24 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Vishwa is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio; backed by nea) and added to the network as a stub for full-pipeline profiling.
-- https://www.vishwa.ai/
+Vishwa AI is an AI underwriting platform for credit teams, enabling screening, diligence, underwriting, and monitoring of deals across private credit, commercial real estate, private equity, and institutional lending. The platform extracts data, verifies with experts, and provides a 100% audit trail, tying every output back to source documents for comprehensive compliance and risk analytics.
+
+**Areas:** Company · AI · FinTech · Underwriting · Credit
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.vishwa.ai/)
+- [Documentation](https://www.vishwa.ai/docs)
+- [Getting started](https://www.vishwa.ai/docs/quickstart/automate-invoice-processing)
+- [API reference](https://www.vishwa.ai/api-reference)
+- [Pricing](https://vishwa.ai/pricing)
+- [Security](https://www.vishwa.ai/security)
+- [Compliance](https://www.vishwa.ai/security)
+- [Terms of service](https://www.vishwa.ai/terms-of-use)
+- [Privacy policy](https://www.vishwa.ai/privacy-policy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/vishwa/](https://apis.io/providers/vishwa/).
